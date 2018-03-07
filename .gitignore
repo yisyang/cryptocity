@@ -1,0 +1,15 @@
+# IDE files
+.idea
+
+# OS files
+.DS_Store
+
+# Manual ignores
+._*
+
+# Generated files
+*/logs
+/logs/*
+!/logs/.gitkeep
+public/crossdomain.xml
+public/version.txt
